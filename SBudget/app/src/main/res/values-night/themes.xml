@@ -1,7 +1,0 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-
-    <!-- Base application theme. -->
-
-    <bool name="lightNavEnabled" tools:ignore="MissingDefaultResource">false</bool>
-
-</resources>
